@@ -129,5 +129,4 @@ git clone https://anshuljain90:ghp_qgKfJh-LYaE45zU5kx79EQFQ-zJ8yj0L89nR@github.c
 ## Sample files
 
  - [CHANGELOG.md](https://github.com/anshuljain90/claude-code-cli/blob/main/CHANGELOG.md)
- - [README.md](https://github.com/anshuljain90/claude-code-cli/blob/main/README-SNIPPET.md)
-
+ - [README.md](https://raw.githubusercontent.com/anshuljain90/claude-code-cli/refs/heads/main/README-SNIPPET.md)
